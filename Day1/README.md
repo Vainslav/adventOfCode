@@ -1,2 +1,0 @@
-# adventOfCode
-AdventOfCode2024
